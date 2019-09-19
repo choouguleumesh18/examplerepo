@@ -1,0 +1,29 @@
+{
+  "name": "examplepackage",
+  "version": "1.0.0",
+  "description": "First Package on npm",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.17.1",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node ./server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/choouguleumesh18/examplerepo.git"
+  },
+  "keywords": [
+    "example"
+  ],
+  "author": "UmeshChougule <chouguleumesh18@gmail.com> (https://www.guru99.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/choouguleumesh18/examplerepo/issues"
+  },
+  "homepage": "https://github.com/choouguleumesh18/examplerepo#readme"
+}
